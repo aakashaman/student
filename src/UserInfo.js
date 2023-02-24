@@ -1,8 +1,8 @@
 import React from 'react';
 import './UserInfo.css';
 import image from './ppic.png'
-import VerticalTabs from './VerticalTabs.tsx';
-import ReactDOM from "react-dom";
+import VerticalTabs from './VerticalTabs.jsx';
+
 
 
 const UserInfo = () => {

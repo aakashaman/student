@@ -3,13 +3,13 @@ import Tabs from '@mui/material/Tabs';
 import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
-import BasicTabs from './BasicTabs.tsx';
+import BasicTabs from './BasicTabs.jsx';
 import './Verticaltabs.css';
-import Form1 from './Form1.tsx';
-import Form2 from './Form2.tsx';
-import Form3 from './Form3.tsx';
-import Form4 from './Form4.tsx';
-import Form5 from './Form5.tsx';
+import Form1 from './Form1.jsx';
+import Form2 from './Form2.jsx';
+import Form3 from './Form3.jsx';
+import Form4 from './Form4.jsx';
+import Form5 from './Form5.jsx';
 
 
 interface TabPanelProps {
